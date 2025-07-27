@@ -24,21 +24,11 @@ Passionate about Medicine, Research, and Technology
 ---
 
 ## Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabaaMunther)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ID)
 [![Academia](https://img.shields.io/badge/Academia-000000?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/MuntherNabaa)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@nuoon_m_khala)
-
----
-
-## Verified Commits
-![GPG Verified](https://img.shields.io/badge/Commits-Verified-brightgreen?style=for-the-badge&logo=github)
-
----
-
-## Tech & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
