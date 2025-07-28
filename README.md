@@ -6,28 +6,31 @@
 # Hi there, I'm Dr. Nabaa Munther
 
 **Pediatrician | Arabic Board Candidate | Research Enthusiast**  
-Passionate about Medicine, Research, and Technology  
+Passionate about medicine, clinical research, and the integration of digital tools in pediatric care.
 
 ---
 
 ## About Me
-- Pediatrician at Al-Batool Children's Hospital (Iraq)  
-- Arabic Board of Pediatrics Candidate  
-- Interested in Clinical Research, Case Presentations, and Digital Tools  
-- Focused on continuous self-development and innovation  
+
+- Pediatrician at Al-Batool Children's Hospital – Diyala, Iraq  
+- Currently pursuing certification from the Arab Board of Pediatrics  
+- Interested in clinical case presentations, digital innovation, and academic research  
+- Committed to continuous self-development and professional excellence  
 
 ---
 
 ## Website
+
 [![Website](https://img.shields.io/badge/Website-drnabaa.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://drnabaa.com)
 
 ---
 
 ## Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabaaMunther)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ID)
-[![Academia](https://img.shields.io/badge/Academia-000000?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/MuntherNabaa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabaaMunther)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ID)  
+[![Academia](https://img.shields.io/badge/Academia-000000?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/MuntherNabaa)  
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@nuoon_m_khala)
 
 ---
