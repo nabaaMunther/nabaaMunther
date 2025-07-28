@@ -23,10 +23,11 @@ Coming Soon: [https://drnabaa.com](https://drnabaa.com)
 
 ## Connect with Me
 
-- ORCID: [https://orcid.org/0009-0005-1484-2761](https://orcid.org/0009-0005-1484-2761)  
+https://nabaaMunther.github.io/nabaaMunther/orcid.html  
 - Academia.edu: [https://independent.academia.edu/MuntherNabaa](https://independent.academia.edu/MuntherNabaa)  
 - Threads: [https://www.threads.net/@nuoon_m_khala](https://www.threads.net/@nuoon_m_khala)  
 - GitHub: [https://github.com/nabaaMunther](https://github.com/nabaaMunther)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaa-munther-123456789/)
 
 ---
 
