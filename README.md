@@ -19,7 +19,7 @@ To become a highly successful, board-certified pediatrician and contribute to el
 
 ## Website
 
-Coming Soon: [https://drnabaa.com](https://drnabaa.com)
+[![Website](https://img.shields.io/badge/Visit-drnabaa.com-blue)](https://drnabaa.com)
 
 ## Connect with Me
 
