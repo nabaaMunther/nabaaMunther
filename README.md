@@ -10,15 +10,19 @@ This repository hosts my personal website, academic links, and professional port
 
 ---
 
-## Official Links
+### Official Links
 
-- Website: [drnabaa.com](https://drnabaa.com)
-- ORCID: [https://orcid.org/0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(update with your real ORCID)*
-- Academia: [independent.academia.edu/DrNabaaMunther](https://independent.academia.edu/DrNabaaMunther)
-- Cureus: [cureus.com/users/1089144-nabaa-munther](https://www.cureus.com/users/1089144-nabaa-munther)
-- LinkedIn: [linkedin.com/in/dr-nabaa-munther-a2b413375](https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)
+- [Website](http://drnabaa.com)
+- [ORCID](https://orcid.org/0000-0000-0000-0000) *(update with your real ORCID)*
+- [Academia](https://independent.academia.edu/DrNabaaMunther)
+- [Cureus](https://www.cureus.com/users/1089144-nabaa-munther)
+- [LinkedIn](https://linkedin.com/in/dr-nabaa-munther-a2b413375)
 
----
+### Current Focus
+
+- Final stage of the Arabic Board in Pediatrics
+- Research on iron deficiency anemia in school-aged children
+- Preparing publications for Scopus and PubMed-indexed journals
 
 ## Current Focus
 
