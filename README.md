@@ -12,11 +12,6 @@ This repository hosts my personal website, academic links, and professional port
 
 ### Official Links
 
-- [Website](http://drnabaa.com)
-- [ORCID](https://orcid.org/0000-0000-0000-0000) *(update with your real ORCID)*
-- [Academia](https://independent.academia.edu/DrNabaaMunther)
-- [Cureus](https://www.cureus.com/users/1089144-nabaa-munther)
-- [LinkedIn](https://linkedin.com/in/dr-nabaa-munther-a2b413375)
 
 ### Current Focus
 
