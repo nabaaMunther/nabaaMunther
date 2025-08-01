@@ -1,0 +1,23 @@
+<!-- Inside the Profiles section -->
+<div class="links">
+  <a href="https://www.linkedin.com/in/dr-nabaa-munther-a2b413375" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+
+  <!-- ORCID badge -->
+  <a href="https://orcid.org/0009-0005-1944-8336"
+     target="_blank"
+     rel="me noopener"
+     aria-label="ORCID iD 0009-0005-1944-8336"
+     class="orcid">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+         alt="ORCID iD icon"
+         class="icon">
+    ORCID: 0009-0005-1944-8336
+  </a>
+
+  <a href="https://independent.academia.edu/DrNabaaMunther" target="_blank" rel="noopener">Academia</a>
+  <a href="https://www.threads.net/@nuoon_m_khala" target="_blank" rel="noopener">Threads</a>
+</div>
+<style>
+  .icon { width: 18px; height: 18px; vertical-align: -3px; margin-right: 6px; }
+</style>
