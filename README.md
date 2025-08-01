@@ -12,12 +12,12 @@ This repository hosts my personal website, academic links, and professional port
 
 ## Official Links
 
-- **Official Website:** [https://nabaamunther.github.io](https://nabaamunther.github.io)  
-- **ORCID:** [https://orcid.org/0009-0005-1944-8336](https://orcid.org/0009-0005-1944-8336)  
-- **Google Scholar:** [https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en](https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en)  
-- **LinkedIn:** [https://www.linkedin.com/in/dr-nabaa-munther-a2b413375](https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)  
-- **Academia:** [https://independent.academia.edu/DrNabaaMunther](https://independent.academia.edu/DrNabaaMunther)  
-- **Threads:** [https://www.threads.net/@nuoon_m_khala](https://www.threads.net/@nuoon_m_khala)
+- **Official Website:** (https://nabaamunther.github.io)  
+- **ORCID:**(https://orcid.org/0009-0005-1944-8336)  
+- **Google Scholar:** (https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en)  
+- **LinkedIn:**(https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)  
+- **Academia:** (https://independent.academia.edu/DrNabaaMunther)  
+- **Threads:**(https://www.threads.net/@nuoon_m_khala)
 
 ---
 
