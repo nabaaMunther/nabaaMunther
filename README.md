@@ -1,32 +1,30 @@
-# Dr. Nabaa Munther – Personal Website
 
-Pediatrician | Arabic Board Candidate | Researcher
+# Instagram Profile - Dr. Nabaa Munther
 
-Welcome to my official website and professional GitHub repository.  
-I am Dr. Nabaa Munther, a dedicated pediatrician at Al‑Batool Children’s Hospital – Diyala, Iraq.  
-My work focuses on child health, academic research, pediatric neurology, and nutritional deficiencies in children.
-
-This repository hosts my personal website, academic links, and professional portfolio.
+This folder includes official content related to my personal Instagram and YouTube.
 
 ---
 
-## Official Links
-
-- **Official Website:** (https://nabaamunther.github.io)  
-- **ORCID:**(https://orcid.org/0009-0005-1944-8336)  
-- **Google Scholar:** (https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en)  
-- **LinkedIn:**(https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)  
-- **Academia:** (https://independent.academia.edu/DrNabaaMunther)  
-- **Threads:**(https://www.threads.net/@nuoon_m_khala)
+## 📷 Instagram
+**Handle:** [@nuoon_m_khala](https://www.instagram.com/nuoon_m_khala)  
+**QR Code:**  
+![QR Code](qr-code.png)
 
 ---
 
-## Current Focus
-
-- Final stage of the Arabic Board in Pediatrics  
-- Research on iron deficiency anemia in school‑aged children  
-- Preparing publications for Scopus and PubMed‑indexed journals
+## ▶️ YouTube
+**Channel:** [@Dr_Nabaa.munther](https://m.youtube.com/@Dr_Nabaa.munther)
 
 ---
 
-This website reflects my professional identity, academic mission, and future vision as a pediatrician committed to growth and excellence.
+## 📄 Other Official Links
+
+- 🌐 Website: [drnabaa.com](https://www.drnabaamunther.com)
+- 📚 Google Scholar: [View Profile](https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en)
+- 🔗 ORCID: [https://orcid.org/0009-0005-1944-8336](https://orcid.org/0009-0005-1944-8336)
+- 🔗 LinkedIn: [Dr. Nabaa Munther](https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)
+- 📄 Academia.edu: [View Profile](https://independent.academia.edu/DrNabaaMunther)
+
+---
+
+📌 *For any updates, follow my official accounts above.*
