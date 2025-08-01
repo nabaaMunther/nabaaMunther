@@ -1,30 +1,21 @@
+<div style="font-family: Arial, sans-serif; max-width: 700px; margin: auto; border: 1px solid #ddd; padding: 25px; border-radius: 10px;">
+  <h2> Dr. Nabaa Munther Khalaf</h2>
+  <p><strong>Pediatrician | Arabic Board Candidate | Researcher in Child Health</strong></p>
+  <p> Al-Batool Children's Hospital – Diyala, Iraq<br>
+     🌐 <a href="https://drnabaa.com" target="_blank">drnabaa.com</a></p>
 
-# Instagram Profile - Dr. Nabaa Munther
+  <hr>
 
-This folder includes official content related to my personal Instagram and YouTube.
+  <p><strong>🔗 Connect with me:</strong></p>
+  <ul>
+    <li> <a href="https://www.instagram.com/nabaa_munther_khalaf/" target="_blank">Instagram</a></li>
+    <li> <a href="https://orcid.org/0009-0005-1944-8336" target="_blank">ORCID</a></li>
+    <li> <a href="https://www.researchgate.net/profile/Nabaa-Munther" target="_blank">ResearchGate</a></li>
+    <li>🎓 <a href="https://independent.academia.edu/DrNabaaMunther" target="_blank">Academia.edu</a></li>
+    <li>💼 <a href="https://www.linkedin.com/in/dr-nabaa-munther-a2b413375" target="_blank">LinkedIn</a></li>
+    <li>▶️ <a href="https://www.youtube.com/@Dr_Nabaa.munther" target="_blank">YouTube</a></li>
+  </ul>
 
----
-
-## 📷 Instagram
-**Handle:** [@nuoon_m_khala](https://www.instagram.com/nuoon_m_khala)  
-**QR Code:**  
-![QR Code](qr-code.png)
-
----
-
-## ▶️ YouTube
-**Channel:** [@Dr_Nabaa.munther](https://m.youtube.com/@Dr_Nabaa.munther)
-
----
-
-## 📄 Other Official Links
-
-- 🌐 Website: [drnabaa.com](https://www.drnabaamunther.com)
-- 📚 Google Scholar: [View Profile](https://scholar.google.com/citations?user=iOR8fnsAAAAJ&hl=en)
-- 🔗 ORCID: [https://orcid.org/0009-0005-1944-8336](https://orcid.org/0009-0005-1944-8336)
-- 🔗 LinkedIn: [Dr. Nabaa Munther](https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)
-- 📄 Academia.edu: [View Profile](https://independent.academia.edu/DrNabaaMunther)
-
----
-
-📌 *For any updates, follow my official accounts above.*
+  <p><em>Passionate about pediatrics, research, and purposeful living.<br>
+  Striving for excellence in every detail — with heart, mind, and vision.</em></p>
+</div>
