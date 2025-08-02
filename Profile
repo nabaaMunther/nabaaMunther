@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr. Nabaa Munther | Professional Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fef3f7;
+      color: #333;
+      margin: 0;
+      padding: 40px;
+    }
+    h1 {
+      color: #c1779b;
+      text-align: center;
+    }
+    h2 {
+      color: #b36a8b;
+      margin-top: 40px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 10px 0;
+    }
+    a {
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Dr. Nabaa Munther</h1>
+    <p>
+      Pediatrician at Al-Batool Children's Hospital – Diyala, Iraq.  
+      Arabic Board of Pediatrics Candidate.  
+      Passionate about pediatric neurology, neonatal care, and academic publishing.
+    </p>
+
+    <h2>Official Website</h2>
+    <ul>
+      <li><a href="https://drnabaa.com" target="_blank">https://drnabaa.com</a></li>
+    </ul>
+
+    <h2>Academic Profiles</h2>
+    <ul>
+      <li><a href="https://orcid.org/0009-0005-1944-8336" target="_blank">ORCID</a></li>
+      <li><a href="https://drnabaamunther.academia.edu" target="_blank">Academia.edu</a></li>
+      <li><a href="https://www.researchgate.net/profile/Nabaa-Munther" target="_blank">ResearchGate</a></li>
+      <li><a href="https://www.cureus.com/users/1089144-nabaa-munther" target="_blank">Cureus</a></li>
+    </ul>
+
+    <h2>Professional & Social Media</h2>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/dr-nabaa-munther-a2b413375" target="_blank">LinkedIn</a></li>
+      <li><a href="https://www.instagram.com/nabaa_munther_khalaf" target="_blank">Instagram</a></li>
+      <li><a href="https://www.youtube.com/@Dr_Nabaa.munther" target="_blank">YouTube Channel</a></li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <strong>nabaa@drnabaa.com</strong></p>
+  </div>
+</body>
+</html>
