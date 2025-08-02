@@ -1,32 +1,23 @@
-# Dr. Nabaa Munther | Pediatrician
+# Dr. Nabaa Munther
 
-Welcome to my professional GitHub profile.
+Pediatrician | Researcher | Arabic Board of Pediatrics Candidate  
+Based in Diyala, Iraq – working at Al-Batool Children's Hospital  
 
-I am Dr. Nabaa Munther, a pediatrician at Al-Batool Children’s Hospital in Diyala, Iraq. I am a candidate for the Arabic Board of Pediatrics and actively engaged in clinical care, academic research, and medical presentations. I am committed to providing high-quality pediatric care and continuously developing my expertise.
+I am a dedicated pediatrician and board candidate with a focus on child health, neonatal care, and pediatric neurology. I am actively involved in research, academic writing, and medical case presentations. I also serve as a peer reviewer for medical journals.
 
-## Website
-Visit my official website: [www.drnabaa.com](https://www.drnabaa.com)
+## Official Website
+- https://drnabaa.com
 
-## Professional and Academic Profiles
-- [LinkedIn](https://drnabaamunther.academia.edu/)
-- [Academia.edu](https://independent.academia.edu/MuntherNabaa)
-- [Threads](https://www.threads.net/@nuoon_m_khala)
-- [Instagram](https://www.instagram.com/nabaa_munther_khalaf)
+## Academic Profiles
+- ORCID: https://orcid.org/0009-0005-1944-8336
+- Academia.edu: https://drnabaamunther.academia.edu/
+- ResearchGate: https://www.researchgate.net/profile/Nabaa-Munther
 
-## Clinical Interests
-- Neonatal care and jaundice
-- Pediatric hematology and hemoglobin disorders
-- Child growth, nutrition, and developmental follow-up
-- Pediatric neurology and long case presentations
-
-## Research and Publications
-- Arabic Board pediatric research project (in progress)
-- Case presentations available upon request
-- Focus on iron deficiency anemia and neonatal complications
+## Professional and Social Media
+- LinkedIn: https://www.linkedin.com/in/dr-nabaa-munther-a2b413375
+- Instagram: https://www.instagram.com/nabaa_munther_khalaf
+- YouTube: https://www.youtube.com/@Dr_Nabaa.munther
 
 ## Contact
-For collaborations, case discussions, or academic inquiries, please visit [www.drnabaa.com](https://www.drnabaa.com) or email me directly at: contact@drnabaa.com
-
----
-
-This profile reflects my commitment to advancing pediatric care through continuous learning, clinical experience, and research.
+For professional inquiries or academic collaboration:  
+**Email:** nabaa@drnabaa.com
