@@ -8,7 +8,7 @@ I am Dr. Nabaa Munther, a pediatrician at Al-Batool Children’s Hospital in Diy
 Visit my official website: [www.drnabaa.com](https://www.drnabaa.com)
 
 ## Professional and Academic Profiles
-- [LinkedIn](https://www.linkedin.com/in/dr-nabaa-munther-a2b413375)
+- [LinkedIn](https://drnabaamunther.academia.edu/)
 - [Academia.edu](https://independent.academia.edu/MuntherNabaa)
 - [Threads](https://www.threads.net/@nuoon_m_khala)
 - [Instagram](https://www.instagram.com/nabaa_munther_khalaf)
