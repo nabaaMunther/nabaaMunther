@@ -12,7 +12,7 @@
     <li> <a href="https://orcid.org/0009-0005-1944-8336" target="_blank">ORCID</a></li>
     <li> <a href="https://www.researchgate.net/profile/Nabaa-Munther" target="_blank">ResearchGate</a></li>
     <li>🎓 <a href="https://independent.academia.edu/DrNabaaMunther" target="_blank">Academia.edu</a></li>
-    <li>💼 <a href="https://www.linkedin.com/in/dr-nabaa-munther-a2b413375" target="_blank">LinkedIn</a></li>
+    <li> <a href="https://www.linkedin.com/in/dr-nabaa-munther-a2b413375" target="_blank">LinkedIn</a></li>
     <li>▶️ <a href="https://www.youtube.com/@Dr_Nabaa.munther" target="_blank">YouTube</a></li>
   </ul>
 
