@@ -17,7 +17,7 @@ I am a dedicated pediatrician and board candidate with a focus on child health, 
 - LinkedIn: https://www.linkedin.com/in/dr-nabaa-munther-a2b413375
 - Instagram: https://www.instagram.com/nabaa_munther_khalaf
 - YouTube: https://www.youtube.com/@Dr_Nabaa.munther
-
+- Academia.edu: https://drnabaamunther.academia.edu
 ## Contact
 For professional inquiries or academic collaboration:  
 **Email:** nabaa@drnabaa.com
