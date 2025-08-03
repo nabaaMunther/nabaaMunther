@@ -10,10 +10,7 @@ Welcome to the source code of drnabaa.com, the official website of Dr. Nabaa Mun
 - Profile page: https://drnabaa.com/profile.html  
 - Academia.edu: https://independent.academia.edu/MuntherNabaa  
 - ORCID: https://orcid.org/0009-0005-1944-8336  
-- ResearchGate: https://www.researchgate.net/  
-- LinkedIn: https://www.linkedin.com/  
 - Threads: https://www.threads.net/@nuoon_m_khala  
-- YouTube: https://www.youtube.com/  
 - Email: nabaa@drnabaamunther.com
 
 ---
